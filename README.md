@@ -1,2 +1,2 @@
 # delta-demo
-This is my first repositery about delta course.
+This is my first git & Github class.
